@@ -57,10 +57,6 @@ const writeFileAsync = util.promisify(fs.writeFile);
 const promptProject = () =>
   inquirer.prompt(questions);
 
-// function to write README file
-//function writeToFile('README.md', data) {
-//}
-
 // function to initialize program
 function init() {
   promptProject()

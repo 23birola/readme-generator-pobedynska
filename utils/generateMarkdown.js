@@ -26,7 +26,7 @@ ${data.contributing}
 ${data.tests}
 
 ## License
-This project is licensed under the ${data.license} license. ![License Badge](https://img.shields.io/badge/License-${encodeURIComponent(data.license)}-blue.svg)
+This project is licensed under the ${data.license} license. ![License Badge](https://img.shields.io/badge/License-${encodeURIComponent(data.license)}-blue.svg)(https://opensource.org/licenses/${data.license})
 
 ## Questions
 For any questions, please contact [${data.github}](https://github.com/${data.github}) or email at ${data.email}.`;

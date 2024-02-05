@@ -50,6 +50,11 @@ const questions = [
       type: 'input',
       name: 'email',
       message: 'What is your email?',
+      validate: function (input) {
+      // Use a regular expression for basic email validation
+      const emailRegex = /\S+@\S+\.\S+/;
+      return emailRegex.test(input) ? true : 'Please enter a valid email address';
+    },
     },
 ];
 

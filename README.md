@@ -20,7 +20,7 @@ To run the README Generator, execute the following command in the terminal: `nod
 
 **Here is the project demo**
 [Download demo](/video/demo.mp4)
-[! project demo](/video/demo_1.gif)
+![project demo](/video/demo_1.gif)
 
 ## License
 

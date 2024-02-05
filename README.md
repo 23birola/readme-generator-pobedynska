@@ -2,7 +2,7 @@
 
 ## Description
 
-Readme-generator-pobedynska is a tool to build an amazing README file for your project.
+This Readme generator is a tool to build an amazing README file for your project.
 Developing this project were used [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![HTML](https://img.shields.io/badge/HTML-5-orange)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![Node.js](https://img.shields.io/badge/Node.js-v14-green)](https://nodejs.org/)
@@ -17,6 +17,8 @@ Developing this project were used [![JavaScript](https://img.shields.io/badge/Ja
 ## Usage
 
 To run the README Generator, execute the following command in the terminal: `node index.js`
+
+**Here is the project demo** ![readme generator](/video/demo.mp4)
 
 ## License
 

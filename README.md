@@ -2,7 +2,8 @@
 
 ## Description
 
-Readme-generator-pobedynska is a tool to build amazing README files for your project. Developing this project were used [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+Readme-generator-pobedynska is a tool to build an amazing README file for your project.
+Developing this project were used [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![HTML](https://img.shields.io/badge/HTML-5-orange)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![Node.js](https://img.shields.io/badge/Node.js-v14-green)](https://nodejs.org/)
 [![Git](https://img.shields.io/badge/Git-v2.32-blue)](https://git-scm.com/)

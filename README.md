@@ -18,7 +18,8 @@ Developing this project were used [![JavaScript](https://img.shields.io/badge/Ja
 
 To run the README Generator, execute the following command in the terminal: `node index.js`
 
-**Here is the project demo** ![readme generator](/video/demo.gif)
+**Here is the project demo**
+![readme generator](/video/demo-1.mp4)
 
 ## License
 

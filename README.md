@@ -19,7 +19,7 @@ To run the README Generator, execute the following command in the terminal: `nod
 
 ## License
 
-This project is licensed under the MIT license. ![License Badge](https://img.shields.io/badge/License-MIT-blue.svg)(https://opensource.org/licenses/MIT)
+This project is licensed under the MIT license. [![License Badge](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## Questions
 
